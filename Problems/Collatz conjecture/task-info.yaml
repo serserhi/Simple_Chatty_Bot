@@ -3,15 +3,12 @@ files:
 - name: src/Main.java
   visible: true
   text: |-
-    public class Main {
+    class Main {
         public static void main(String[] args) {
-
-            variable  // Change this line
-
-            System.out.println(variable);
+            // put your code here
         }
     }
   learner_created: false
-feedback_link: https://hyperskill.org/learn/step/2485
+feedback_link: https://hyperskill.org/learn/step/2234
 status: Solved
 record: -1
